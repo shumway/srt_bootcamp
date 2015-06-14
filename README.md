@@ -17,3 +17,10 @@ to be held July 6th - 10th, in Bel Air, Maryland.
   and [Numba](http://numba.pydata.org). 
   You can experiment with these before the camp.
 
+## Tentative outline
+
+- Monday: Introduction to python, Mandelbrot set
+- Tuesday: Introduction to GPU computing, accelerating Mandelbrot set
+- Wednesday: Vibrational models of ball and spring models, matrices
+- Thursday: Waves, interference, reflection
+- Friday: Fluid flow
